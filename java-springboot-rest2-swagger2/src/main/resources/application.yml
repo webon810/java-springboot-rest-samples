@@ -1,0 +1,9 @@
+server:
+     port: 8071
+
+security:
+  basic:
+    enabled: true
+  user:
+    name: yourusername
+    password: yourpassword
